@@ -1,6 +1,6 @@
-# shoco
+# 🍫 shoco
 
-TODO: Write a description here
+[shoco](https://github.com/Ed-von-Schleck/shoco) short strings compressor interface for Crystal
 
 ## Installation
 
@@ -9,31 +9,11 @@ TODO: Write a description here
    ```yaml
    dependencies:
      shoco:
-       github: your-github-user/shoco
+       github: mentalblood0/shoco
    ```
 
 2. Run `shards install`
 
 ## Usage
 
-```crystal
-require "shoco"
-```
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
-
-## Contributing
-
-1. Fork it (<https://github.com/your-github-user/shoco/fork>)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
-
-## Contributors
-
-- [necheporenko_s_iu](https://github.com/your-github-user) - creator and maintainer
+See [spec/shoco_spec.cr](./spec/shoco_spec.cr)
